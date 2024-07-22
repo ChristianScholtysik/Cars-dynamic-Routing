@@ -1,0 +1,12 @@
+.car-details {
+  background-color: rgb(37, 219, 27);
+  color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 6px;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  padding: 1em 2em;
+  width: 50%;
+  margin: 0 auto;
+}

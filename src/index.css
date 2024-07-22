@@ -1,0 +1,14 @@
+header a {
+  color: black;
+  padding: 0 10px;
+  text-decoration: none;
+}
+
+.active {
+  background-color: rgb(172, 172, 172);
+  color: white;
+}
+
+img {
+  max-width: 100%;
+}
